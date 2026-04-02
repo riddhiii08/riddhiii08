@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riddhi Karambalekar</h1>
-<h3 align="center">🚀 Aspiring Developer | Flutter + Java Backend</h3>
+<h3 align="center">🚀 Aspiring Developer </h3>
 
 ---
 
@@ -37,10 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=riddhiii08&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=riddhiii08&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=riddhiii08&layout=compact&theme=tokyonight" />
 </p>
 
 ---
