@@ -5,10 +5,10 @@
 
 # 💫 About Me:
 🎓 IT Engineering Student  
-⚡ Currently focused on App Development 
-🧩 Improving logic building + DSA  
-🔭 Strengthening backend / API-based projects  
-🌱 Basics of system design & development workflows  
+⚡Currently focused on App Development 
+🧩 Improving logic building + DSA
+🔭 Strengthening backend / API-based projects 
+🌱 Basics of system design & development workflows 
 
 ---
 
